@@ -25,7 +25,11 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
     3. [Codecademy - Learn CSS](#33-learn-css)
 
     <br>
-4. Responsive Web Design
+4. [Responsive Web Design](#task-4-responsive-web-design)
+    1. [Flexbox Froggy](#41-flexbox-froggy-game)
+    2. [Grid Garden](#42-grid-garden-game)
+
+    <br>
 5. HTML & CSS Practice
 6. JavaScript Basics
 7. Document Object Model - practice
@@ -169,6 +173,41 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 <br>
 
 ![Codecademy-Learn-CSS](./task_html_css_intro/Codecademy%20-%20Learn%20CSS.jpg)
+
+***
+
+## Task 4. Responsive Web Design
+
+***
+
+<br>
+
+Після перегляду відео, почав робити практичні завдання. В ігровій формі зручно робити і всі пояснення є перед кожним кроком, можна відразу робити завдання без перегляду відео, а для закріплення вже переглянути.
+Також рекомендую почитати:
+1. [css-tricks.com-flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+2. [css-tricks.com-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+<br>
+
+### 4.1 Flexbox Froggy Game
+[Roadmap](#roadmap-course)
+
+<br>
+
+![FlexBox-Froggy-Game-1](./task_responsive_web_design/Flexbox%20Froggy%201.jpg)
+![FlexBox-Froggy-Game-2](./task_responsive_web_design/Flexbox%20Froggy%202.jpg)
+
+<br>
+
+### 4.2 Grid Garden Game
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Grid-Garden-Game-1](./task_responsive_web_design/Grid%20Garden%201.jpg)
+![Grid-Garden-Game-2](./task_responsive_web_design/Grid%20Garden%202.jpg)
+
+<br>
 
 ***
 
