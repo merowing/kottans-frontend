@@ -30,9 +30,18 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
     2. [Grid Garden](#42-grid-garden-game)
 
     <br>
-5. HTML & CSS Practice
-6. JavaScript Basics
-7. Document Object Model - practice
+5. [HTML & CSS Practice](#task-5-html--css-practice) (practice)
+6. [JavaScript Basics](#task-6-javascript-basics)
+    1. [Introduction to JavaScript](#61-introduction-to-javascript)
+    2. [FreeCodeCamp](#62-freecodecamp)
+
+    <br>
+7. [Document Object Model - practice](#task-7-document-object-model---practice)
+    1. [Document Object Modal Manipulation](#71-document-object-model-manipulation)
+    2. [FreeCodeCamp Advanced](#72-freecodecamp-advanced)
+    3. [Practical task](#73-practical-task) (practice)
+
+    <br>
 8. Building a Tiny JS World (pre-OOP) - practice
 9. Object oriented JS - practice
 10. OOP exercise - practice
@@ -211,4 +220,92 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 
 ***
 
+## Task 5. HTML & CSS Practice
+
+***
+
+<br>
+
+Завдання саме по собі не складне, воно швидше нудне і муторне.
+
+<br>
+
+1. [Live Demo](https://merowing.github.io/html-css-popup/)
+2. [Source code](https://github.com/merowing/html-css-popup)
+
+<br>
+
+***
+
+## Task 6. JavaScript Basics
+
+***
+
+<br>
+
+Це основив JavaScript, але просто прошовши всі ці завдання писати не навчишся, потрібен час і багато написано коду та вміння застосовувати методи там, де це потрібно.
+
+<br>
+
+### 6.1 Introduction to JavaScript
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Introduction-to-JavaScript-Coursera-Week-4](./task_js_basics/Introduction%20to%20JavaScript%20-%20Coursera%20Week%204.jpg)
+
+<br>
+
+### 6.2 FreeCodeCamp
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Basic-JavaScript](./task_js_basics/Basic%20JavaScript.jpg)
+![ES6-Challenges](./task_js_basics/ES6.jpg)
+![Basic-Data-Structures](./task_js_basics/Basic%20Data%20Structures.jpg)
+![Basic-Algorithm-Scripting](./task_js_basics/Basic%20Algorithm%20Scripting.jpg)
+![Functional-Programming](./task_js_basics/Functional%20Programming.jpg)
+![Intermediate-Algorithm-Scripting](./task_js_basics/Intermediate%20Algorithm%20Scripting.jpg)
+
+<br>
+
+***
+
+## Task 7. Document Object Model - practice
+
+***
+
+<br>
+
+Завдання вже стали складнішими, але цікавішими від попереднього практичного.
+
+<br>
+
+### 7.1 Document Object Model Manipulation
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Document-Object-Model-Manipulation-Coursera-Week-5](./task_js_dom/Document%20Object%20Model%20Manipulation%20-%20Coursera%20-%20Week%205.jpg)
+
+<br>
+
+### 7.2 FreeCodeCamp Advanced
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Intermediate-Algorithm-Scripting](./task_js_dom/Intermediate%20Algorithm%20Scripting.jpg)
+
+<br>
+
+### 7.3 Practical task
+
+1. [Live Demo]()
+2. [Source code]()
+
+<br>
+
+***
 [Roadmap](#roadmap-course)
