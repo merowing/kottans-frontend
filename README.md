@@ -243,7 +243,7 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 
 <br>
 
-Це основив JavaScript, але просто прошовши всі ці завдання писати не навчишся, потрібен час і багато написано коду та вміння застосовувати методи там, де це потрібно.
+Це основи JavaScript, але просто пройшовши всі ці завдання писати не навчишся, потрібен час і багато написано коду та вміння застосовувати методи там, де це потрібно.
 
 <br>
 
@@ -302,8 +302,8 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 
 ### 7.3 Practical task
 
-1. [Live Demo]()
-2. [Source code]()
+1. [Live Demo](https://merowing.github.io/js-dom/)
+2. [Source code](https://github.com/merowing/js-dom)
 
 <br>
 
