@@ -43,7 +43,11 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 
     <br>
 8. Building a Tiny JS World (pre-OOP) - practice
-9. Object oriented JS - practice
+9. [Object oriented JS](#task-9-object-oriented-js) - (practice)
+    1. [Classic Frogger Game](#91-classic-frogger-game)
+    2. [Codewars](#92-codewars)
+
+    <br>
 10. OOP exercise - practice
 11. Offline Web Applications - optional
 12. Memory pair game — real project!
@@ -304,6 +308,35 @@ Repository for [kottans.org](https://github.com/kottans/frontend) courses 2022.
 
 1. [Live Demo](https://merowing.github.io/js-dom/)
 2. [Source code](https://github.com/merowing/js-dom)
+
+<br>
+
+***
+
+## Task 9. Object Oriented JS
+
+***
+
+<br>
+
+Для мене завдання було не зовсім простим, бо звик писати функціональних код, а не об'єктно орієнтований. Codewars почав розв'зувати задачі ще в кінці 2020 року, а потім ще трохи в 2022-му.
+
+### 9.1 Classic Frogger Game
+[Roadmap](#roadmap-course)
+
+<br>
+
+1. [Classic Frogger Game](https://merowing.github.io/js-oop/)
+2. [Source code](https://github.com/merowing/js-oop)
+
+<br>
+
+### 9.2 Codewars
+[Roadmap](#roadmap-course)
+
+<br>
+
+![Codewars](./task_js_oop/Codewars.jpg)
 
 <br>
 
